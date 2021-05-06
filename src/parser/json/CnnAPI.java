@@ -14,6 +14,9 @@ import java.util.List;
 
 public class CnnAPI {
     /*
+      //API KEY
+      //4d4663121d564438ba20501c641026a2
+
       You can get API_KEY from this below link. Once you have the API_KEY, you can fetch the top-headlines news.
       https://newsapi.org/s/cnn-api
 

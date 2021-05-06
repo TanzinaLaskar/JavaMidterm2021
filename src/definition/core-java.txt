@@ -65,7 +65,8 @@ Ans:
 using the keyword “implements”.
 
 Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
-Ans:
+Ans:A.You cannot create an object of abstract class or interface since they are incomplete class (interface is not even
+ considered as a class.) What you can do is to implement a subclass of abstract class which, of course, must not be abstract.
 
 what is Access Specifier?
 Ans: Access specifier defines the way the members (attributes and methods) of a class can be accessed. The 4 types
